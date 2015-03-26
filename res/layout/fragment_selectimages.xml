@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@android:color/white"
+    tools:context="com.testwork.instagramloader.SelectImagesScreenFragment" >
+
+
+        <Button
+            android:id="@+id/print_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_below="@+id/text"
+            android:layout_marginTop="10dp"
+            android:text="@string/Print" />
+
+
+        <GridView
+            android:id="@+id/img_grid"
+            android:layout_below="@+id/print_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:horizontalSpacing="4dip"
+            android:numColumns="3"
+            android:padding="4dip"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="4dip" />
+
+</RelativeLayout>

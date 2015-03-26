@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Makarov - Instagram Test Project</string>
+    <string name="username">Логин:</string>
+    <string name="makecollage">Давай коллаж</string>
+    <string name="getting_list">Получение списка - %s шт.</string>
+	<string name="getting_pics">Загрузка картинок - %s шт.</string>
+    <string name="select_images">Отметьте картинки для печати</string>
+    <string name="loading">Загрузка пошла</string>
+    <string name="error">Что-то не так. Или нет фоток, или пользователя, или не пускают.</string>
+	<string name="Print">Печать</string>
+    		
+</resources>

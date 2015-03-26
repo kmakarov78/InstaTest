@@ -1,0 +1,24 @@
+/.idea/
+/out/
+/bin/
+/gen/
+/android.iml
+
+._.DS_Store
+.DS_Store
+
+*.class
+*.dex
+*.apk
+
+
+.classpath
+.project
+
+#Idea files
+.idea
+*.iml
+*.log
+build-log.xml
+/*.iml
+

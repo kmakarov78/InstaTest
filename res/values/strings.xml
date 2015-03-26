@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Instagram Example Project</string>
+    <string name="username">Instagram login:</string>
+    <string name="makecollage">Make collage</string>
+	<string name="getting_list">Getting list - %s.</string>
+	<string name="getting_pics">Loading pictures - %s.</string>
+    <string name="select_images">Select pictures to print</string>
+    <string name="loading">Loading started</string>
+    <string name="error">Something strange. No pictures, no user, or no access.</string>
+	<string name="Print">Print</string>
+    
+    		
+</resources>
